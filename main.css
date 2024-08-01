@@ -18,7 +18,7 @@ body {
     "top-left top-right"
     "button button"
     "bottom-left bottom-rigt"
-    ". bottom-rext";
+    ". bottom-text";
     gap: 20px;
     text-align: center;
     position: relative;
@@ -67,7 +67,7 @@ body {
     grid-area: bottom-left;
 }
 .text-bottom {
-    grid-area: bottom-right;
+    grid-area: bottom-text;
     position: absolute;
     bottom: -20px;
     left: 0;
